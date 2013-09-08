@@ -1,3 +1,6 @@
+;; my addition for [backspace] key
+;;(define-key global-map "\C-h" 'backward-delete-char)
+;;
 ;;; setup-keys.el --- Some key bindings.
 ;;
 ;; Filename: setup-keys.el
